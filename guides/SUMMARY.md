@@ -2,5 +2,5 @@
 
 * [Welcome](README.md)
 * [Quickstart](quickstart.md)
-* [Setup](setup/README.md)
-  * [Environment](setup/environment.md)
+* [Setup](configuration/README.md)
+  * [Environment](configuration/environment.md)

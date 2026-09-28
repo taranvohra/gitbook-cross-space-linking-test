@@ -2,7 +2,7 @@
 
 ## API tokens
 
-Create a token, then set it as described in [Environment](../../guides/setup/environment.md#variables).
+Create a token, then set it as described in [Environment](../../guides/configuration/environment.md#variables).
 
 ## OAuth
 
