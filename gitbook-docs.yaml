@@ -1,0 +1,65 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Cross-space linking test
+  structure:
+    - type: section
+      key: section-guides
+      title: Guides
+      path: guides
+      default: true
+      children:
+        - type: space
+          key: space-guides
+          title: Guides
+          path: guides
+          default: true
+          content:
+            directory: ./guides
+    - type: section
+      key: section-api
+      title: API
+      path: api
+      children:
+        - type: space
+          key: space-api
+          title: API reference
+          path: api
+          default: true
+          content:
+            directory: ./api
+    - type: section
+      key: section-sdks
+      title: SDKs
+      path: sdks
+      children:
+        - type: space
+          key: space-sdks
+          title: SDKs
+          path: sdks
+          default: true
+          content:
+            directory: ./sdks
+    - type: section
+      key: section-faq
+      title: FAQ
+      path: faq
+      children:
+        - type: space
+          key: space-faq
+          title: FAQ
+          path: faq
+          default: true
+          content:
+            directory: ./faq
+    - type: section
+      key: section-changelog
+      title: Changelog
+      path: changelog
+      children:
+        - type: space
+          key: space-changelog
+          title: Changelog
+          path: changelog
+          default: true
+          content:
+            directory: ./changelog
