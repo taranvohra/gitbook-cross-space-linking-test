@@ -1,6 +1,6 @@
 # Welcome
 
-Start with the [Quickstart](quickstart.md), then authenticate with the [API](../api/authentication.md).
+Start with the [Quickstart](quickstart.md), then authenticate with the [API](../api/auth.md).
 
 Prefer a client library? Install the [JavaScript SDK](../sdks/javascript.md#install) or the [Python SDK](../sdks/python.md).
 

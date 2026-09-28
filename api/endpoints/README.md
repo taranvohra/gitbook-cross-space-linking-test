@@ -1,3 +1,3 @@
 # Endpoints
 
-Every endpoint needs [authentication](../authentication.md). The [SDKs](../../sdks/) wrap them all.
+Every endpoint needs [authentication](../auth.md). The [SDKs](../../sdks/) wrap them all.

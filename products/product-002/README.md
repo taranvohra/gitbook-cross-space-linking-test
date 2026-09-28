@@ -1,6 +1,6 @@
 # Product 002
 
-Start with the [Quickstart](../../guides/quickstart.md#install), then create a token in [Authentication](../../api/authentication.md#api-tokens).
+Start with the [Quickstart](../../guides/quickstart.md#install), then create a token in [Authentication](../../api/auth.md#api-tokens).
 
 Read this product's [guide](guide.md), set up your [environment](../../guides/setup/), or compare with [Product 190](../product-190/).
 
@@ -8,5 +8,5 @@ Read this product's [guide](guide.md), set up your [environment](../../guides/se
 [guide.md](../product-028/guide.md)
 {% endcontent-ref %}
 
-This should be a [link](../../api/authentication.md)
+This should be a [link](../../api/auth.md)
 

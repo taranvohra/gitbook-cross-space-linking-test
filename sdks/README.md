@@ -1,3 +1,3 @@
 # SDKs
 
-Both SDKs use the tokens described in [Authentication](../api/authentication.md#api-tokens).
+Both SDKs use the tokens described in [Authentication](../api/auth.md#api-tokens).

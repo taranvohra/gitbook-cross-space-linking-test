@@ -2,7 +2,7 @@
 
 ## Install
 
-Install the CLI, then [create an API token](../api/authentication.md#api-tokens).
+Install the CLI, then [create an API token](../api/auth.md#api-tokens).
 
 ## Configure
 
