@@ -7,3 +7,5 @@ Read this product's [guide](guide.md), set up your [environment](../../guides/se
 {% content-ref url="../product-009/guide.md" %}
 [guide.md](../product-009/guide.md)
 {% endcontent-ref %}
+
+This should also be a [link](../../api/authentication.md)
