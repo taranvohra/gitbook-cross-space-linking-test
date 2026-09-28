@@ -1,0 +1,13 @@
+# Guide
+
+## Overview
+
+Product 046 works like [Product 170](../product-170/guide.md#details) and shares its [options](../product-151/setup/advanced.md#options) with Product 151.
+
+## Details
+
+See the [FAQ of Product 146](../product-146/faq.md), the [OAuth](../../api/authentication.md#oauth) setup and the [users endpoint][users].
+
+<a href="../product-135/faq.md">Product 135 FAQ</a>
+
+[users]: ../../api/endpoints/users.md

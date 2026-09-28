@@ -1,0 +1,13 @@
+# Guide
+
+## Overview
+
+Product 008 works like [Product 022](../product-022/guide.md#details) and shares its [options](../product-143/setup/advanced.md#options) with Product 143.
+
+## Details
+
+See the [FAQ of Product 077](../product-077/faq.md), the [OAuth](../../api/authentication.md#oauth) setup and the [users endpoint][users].
+
+<a href="../product-162/faq.md">Product 162 FAQ</a>
+
+[users]: ../../api/endpoints/users.md
