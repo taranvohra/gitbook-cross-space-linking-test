@@ -8,4 +8,4 @@ Read this product's [guide](guide.md), set up your [environment](../../guides/se
 [guide.md](../product-009/guide.md)
 {% endcontent-ref %}
 
-This should also be a [link](../../api/authentication.md)
+This should also be a [link](https://gitbook-x-dev-taran.firebaseapp.com/s/eOpxoYUEZRXbKvw6r8ah/authentication).
