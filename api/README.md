@@ -2,8 +2,8 @@
 
 New here? Follow the [Quickstart](../guides/quickstart.md) first.
 
-{% content-ref url="auth.md" %}
-[auth.md](auth.md)
+{% content-ref url="endpoints/auth.md" %}
+[auth.md](endpoints/auth.md)
 {% endcontent-ref %}
 
 {% content-ref url="../sdks/javascript.md" %}

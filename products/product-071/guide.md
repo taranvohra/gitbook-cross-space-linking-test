@@ -6,7 +6,7 @@ Product 071 works like [Product 172](../product-172/guide.md#details) and shares
 
 ## Details
 
-See the [FAQ of Product 085](../product-085/faq.md), the [OAuth](../../api/auth.md#oauth) setup and the [users endpoint][users].
+See the [FAQ of Product 085](../product-085/faq.md), the [OAuth](../../api/endpoints/auth.md#oauth) setup and the [users endpoint][users].
 
 <a href="../product-105/faq.md">Product 105 FAQ</a>
 
