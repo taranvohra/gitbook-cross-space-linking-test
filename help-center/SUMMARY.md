@@ -33,4 +33,4 @@
 
 ***
 
-* [Product updates](https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/euz6U9T9Ui1Un0dUKuuZ/)
+* [Product updates](https://app.gitbook.com/o/24ZaJYK45RmfO7eI0Gkg/s/Dwg4DMWZELMw8xIRRlsA/)
